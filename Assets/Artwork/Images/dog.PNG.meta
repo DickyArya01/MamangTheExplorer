@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 05dc36828e52d724c9b2e0fbf2e8684b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: god_0
+    21300002: god_1
+    21300004: god_2
+    21300006: dog_down2
+    21300008: dog_down1
+    21300010: dog_down3
+    21300012: god_6
+    21300014: god_7
+    21300016: god_8
+    21300018: god_9
+    21300020: god_10
+    21300022: god_11
+    21300024: god_12
+    21300026: god_13
+    21300028: god_14
+    21300030: dog_left2
+    21300032: dog_left1
+    21300034: dog_left3
+    21300036: god_18
+    21300038: god_19
+    21300040: god_20
+    21300042: god_21
+    21300044: god_22
+    21300046: god_23
+    21300048: god_24
+    21300050: god_25
+    21300052: god_26
+    21300054: dog_right2
+    21300056: dog_right1
+    21300058: dog_right3
+    21300060: god_30
+    21300062: god_31
+    21300064: god_32
+    21300066: god_33
+    21300068: god_34
+    21300070: god_35
+    21300072: god_36
+    21300074: god_37
+    21300076: god_38
+    21300078: dog_top2
+    21300080: dog_top1
+    21300082: dog_top3
+    21300084: god_42
+    21300086: god_43
+    21300088: god_44
+    21300090: god_45
+    21300092: god_46
+    21300094: god_47
+    21300096: god_48
+    21300098: god_49
+    21300100: god_50
+    21300102: god_51
+    21300104: god_52
+    21300106: god_53
+    21300108: god_54
+    21300110: god_55
+    21300112: god_56
+    21300114: god_57
+    21300116: god_58
+    21300118: god_59
+    21300120: god_60
+    21300122: god_61
+    21300124: god_62
+    21300126: god_63
+    21300128: god_64
+    21300130: god_65
+    21300132: god_66
+    21300134: god_67
+    21300136: god_68
+    21300138: god_69
+    21300140: god_70
+    21300142: god_71
+    21300144: god_72
+    21300146: god_73
+    21300148: god_74
+    21300150: god_75
+    21300152: god_76
+    21300154: god_77
+    21300156: god_78
+    21300158: god_79
+    21300160: god_80
+    21300162: god_81
+    21300164: god_82
+    21300166: god_83
+    21300168: god_84
+    21300170: god_85
+    21300172: god_86
+    21300174: god_87
+    21300176: god_88
+    21300178: god_89
+    21300180: god_90
+    21300182: god_91
+    21300184: god_92
+    21300186: god_93
+    21300188: god_94
+    21300190: god_95
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_down2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 336
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba18c971526a4044fbb816bc7cd87648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_down1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a3683715422f48820449ab053862d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_down3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5743d350f0fe44883871a3a5159ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_left2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea290dea40477234d82f9d35625712db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_left1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f57b80d001ee47a38c431f7551cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_left3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 288
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e3c4288ae2274c85da2b57765a440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_right2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833a2ddee09d2540bdf10be82cde5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_right1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75468e39e3219414db5bf7aa4e919199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_right3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c79968ba5e508429a7cfa14b658559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_top2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b4c3fc8ea242489d15769ab49d809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_top1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd33a77bc28a614dad0bdaa158b3301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_top3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e75048555096499dfd593063a26c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 652d48d224831e24ba6b1954be67fa4e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
